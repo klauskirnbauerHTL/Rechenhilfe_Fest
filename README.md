@@ -1,6 +1,6 @@
 # Rechenhilfe_Fest
 
-Eine einfache lokale Rechenhilfe-Webanwendung für das Festprojekt. Diese Seite enthält eine übersichtliche Benutzeroberfläche zur Anzeige von Rechenaufgaben und unterstützt schnelles Ausprobieren von Formeln.
+Eine einfache lokale Rechenhilfe-Webanwendung für das Festprojekt. Diese Seite enthält eine übersichtliche Benutzeroberfläche zur Anzeige von Getränken und Speisen und dient als Rechenhilfe.
 
 ## Inhalt
 
